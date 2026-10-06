@@ -1,15 +1,15 @@
 # GitHub project conventions
 
-**Project:** Dung Lair Platform. Issues are the source of task status; milestones define the release stages; repository docs describe the product and architecture.
+**Project:** [Dung Lair Platform](https://github.com/users/brianlatulip/projects/1). Issues are the source of task status; milestones define the release stages; repository docs describe the product and architecture.
 
 ## Views
 
 | View | Layout | Intended use |
 | --- | --- | --- |
-| MVP Board | Board grouped by Status; MVP filter | Daily delivery across Backlog, Ready, In Progress, Blocked, Review, Done |
-| Backlog | Table of open Backlog items, sorted by Priority | Refinement and picking upcoming work |
-| Roadmap | Roadmap using Start date / Target date, grouped by Milestone | Schedule the agreed sequence once dates exist |
-| All Issues | Unfiltered table | Complete inventory, including closed work |
+| [MVP Board](https://github.com/users/brianlatulip/projects/1/views/1) | Board grouped by Status; MVP filter | Daily delivery across Backlog, Ready, In Progress, Blocked, Review, Done |
+| [Backlog](https://github.com/users/brianlatulip/projects/1/views/2) | Table of open Backlog items, sorted by Priority | Refinement and picking upcoming work |
+| [Roadmap](https://github.com/users/brianlatulip/projects/1/views/3) | Roadmap using Start date / Target date, grouped by Milestone | Schedule the agreed sequence once dates exist |
+| [All Issues](https://github.com/users/brianlatulip/projects/1/views/4) | Unfiltered table | Complete inventory, including closed work |
 
 Roadmap dates remain blank until agreed. Unscheduled items still belong in the project; invented dates would create false commitments.
 
