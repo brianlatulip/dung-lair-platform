@@ -25,9 +25,9 @@ sequenceDiagram
   D-->>W: Callback code and state
   W->>A: GET /auth/discord/callback
   A->>A: Validate state
-  A->>D: Exchange code; retrieve identity
+  A->>D: Exchange code and retrieve identity
   D-->>A: Discord identity
-  A->>P: Resolve internal user; create session
+  A->>P: Resolve internal user and create session
   A-->>W: Session cookie and safe redirect
   W->>A: GET /api/v1/me
   A-->>W: Current user and capabilities
