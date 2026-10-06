@@ -9,11 +9,15 @@ flowchart LR
 
 ## M0 — Foundation
 
+[Milestone](https://github.com/brianlatulip/dung-lair-platform/milestone/1) · [Delivery tracker #31](https://github.com/brianlatulip/dung-lair-platform/issues/31)
+
 A reproducible local stack and engineering foundation.
 
 **Exit gate:** Frontend and Go API start with PostgreSQL through Docker Compose; migrations, config, logging, health and CI are demonstrated.
 
 ## M1 — Identity
+
+[Milestone](https://github.com/brianlatulip/dung-lair-platform/milestone/2) · [Delivery tracker #32](https://github.com/brianlatulip/dung-lair-platform/issues/32)
 
 Discord sign-in with internal identity and authorization.
 
@@ -21,11 +25,15 @@ Discord sign-in with internal identity and authorization.
 
 ## M2 — Applications
 
+[Milestone](https://github.com/brianlatulip/dung-lair-platform/milestone/3) · [Delivery tracker #33](https://github.com/brianlatulip/dung-lair-platform/issues/33)
+
 A complete applicant-to-officer review workflow.
 
 **Exit gate:** An applicant submits and views status; officers review, change state, add private notes and see audited history.
 
 ## M3 — Discord + Polish
+
+[Milestone](https://github.com/brianlatulip/dung-lair-platform/milestone/4) · [Delivery tracker #34](https://github.com/brianlatulip/dung-lair-platform/issues/34)
 
 Connected recruitment experience and production MVP.
 

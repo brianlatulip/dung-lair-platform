@@ -13,7 +13,7 @@ The first release gives visitors a clear introduction to the guild, lets applica
 - [Architecture](docs/architecture/overview.md) — boundaries, responsibilities, and deployment.
 - [Documentation index](docs/README.md) — all product, engineering, and decision records.
 - [Implementation backlog](docs/engineering/backlog.md) — acceptance criteria and dependencies.
-- [Issues](https://github.com/brianlatulip/dung-lair-platform/issues) · [Milestones](https://github.com/brianlatulip/dung-lair-platform/milestones)
+- [Project board](https://github.com/users/brianlatulip/projects/1) · [Issues](https://github.com/brianlatulip/dung-lair-platform/issues) · [Milestones](https://github.com/brianlatulip/dung-lair-platform/milestones)
 
 ## MVP at a glance
 
